@@ -1,0 +1,1 @@
+{"dflt": [0.0, 0.0], "dtype": "float32", "expectedlen": 12500, "cparams": {"clevel": 5, "shuffle": 1}, "chunklen": 16384}
